@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyCrE89TaFGYsZ7S1SApOKwVxXymZsJhxiQ",
-    authDomain: "test-new-project-gg.firebaseapp.com",
-    databaseURL: "https://test-new-project-gg.firebaseio.com",
-    projectId: "test-new-project-gg",
-    storageBucket: "test-new-project-gg.appspot.com",
-    messagingSenderId: "381925540763"
+    apiKey: "AIzaSyDj1qnZbImRbvm3O-akcxorwcvlAK4kdoM",
+    authDomain: "gamegolf-a117d.firebaseapp.com",
+    databaseURL: "https://gamegolf-a117d.firebaseio.com/",
+    projectId: "gamegolf-a117d",
+    storageBucket: "gamegolf-a117d.appspot.com",
+    messagingSenderId: "671884081023"
   }
 };
